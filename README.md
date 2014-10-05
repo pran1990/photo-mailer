@@ -12,3 +12,8 @@ Everyday at 10 pm
 ```
 
 For noobs, generate [crons here](http://www.htmlbasix.com/crontab.shtml). 
+
+
+
+###### Smtp
+For configs, take a look at [this](http://rpi.tnet.com/project/faqs/smtp)
